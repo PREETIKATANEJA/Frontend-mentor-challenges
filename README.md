@@ -1,2 +1,2 @@
 # Frontend-mentor-challenges
-My submissions and solution of all those challenges that I attempt on the Frontend Mentor.
+Submissions and solutions of challenges that I attempt on the Frontend Mentor.

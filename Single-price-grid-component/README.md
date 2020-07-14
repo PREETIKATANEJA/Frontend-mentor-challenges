@@ -1,3 +1,5 @@
+Live link: https://stupefied-lalande-44d2c5.netlify.app/
+
 # Frontend Mentor - Single Price Grid Component
 
 ![Design preview for the Single Price Grid Component coding challenge](./design/desktop-preview.jpg)
